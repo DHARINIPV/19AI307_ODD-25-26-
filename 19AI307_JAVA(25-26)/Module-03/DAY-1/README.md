@@ -11,7 +11,7 @@ A jewelry store tracks gold rates for different types of customers. The base cla
 For PremiumCustomer, additionally show cashback amount (which is 1% of the final price).
 
 ## AIM:
-To build an inheritance-based Java program that calculates the final price of gold for different types of customers (Regular and Premium), applying respective discounts and showing cashback for premium customers.
+To build an inheritance-based Java program that calculates the final price of gold for different types of customers (Regular and Premium), applying respective discounts and showing cashback for premium customers
 
 ## ALGORITHM :
 1. Create a base class Customer with attributes: customerId, name, purchaseWeight, and goldRatePerGram.
@@ -181,6 +181,7 @@ public class GoldRateSystem {
 
 ## RESULT:
 Therefore the program successfully applies different discount rules for regular and premium customers.
+
 
 
 
