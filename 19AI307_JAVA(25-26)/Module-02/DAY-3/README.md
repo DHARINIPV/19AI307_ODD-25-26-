@@ -1,7 +1,7 @@
 # Ex.No:2(C) ACCESS SPECIFIERS
 
 ## QUESTION:
-Write a Java program to create a class called Rectangle with private instance variables length and width. Provide public getter and setter methods to access and modify these variables
+Write a Java program to create a class called Rectangle with private instance variables length and width. Provide public getter and setter methods to access and modify these variables.
 
 ## AIM:
 To create a class with private instances variable along with getter and setter methods to access and modify the variables.
@@ -93,4 +93,5 @@ public class Main {
 
 ## RESULT:
 Thus, the program to create an object with private instance along with getter and setter method is implemented successfully.
+
 
