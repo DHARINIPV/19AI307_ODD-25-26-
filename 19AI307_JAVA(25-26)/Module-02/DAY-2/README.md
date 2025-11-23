@@ -10,7 +10,7 @@ double getArea(double r) → calculate the area and return the area(Don't print 
 void printArea(double area) → pass the calculated area to this method and print the area of a circle.
 
 ## AIM:
-To create methods to calculate the area of the circle.
+To create methods to calculate the area of the circle
 
 ## ALGORITHM :
 1.	Start the program.
@@ -68,5 +68,6 @@ public class Main {
 
 ## RESULT:
 Thus, the program to create methods to calculate the area of circle is implemented successfully.
+
 
 
