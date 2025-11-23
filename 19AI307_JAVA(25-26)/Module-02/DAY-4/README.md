@@ -1,7 +1,7 @@
 # Ex.No:2(D) VARIABLE SCOPE AND CONSTRUCTOR
 
 ## QUESTION:
-Write a class Rectangle using parameterized constructor and calculate area.
+Write a class Rectangle using parameterized constructor and calculate area
 
 ## AIM:
 To create a class using parameterized constructor to calculate the area of a rectangle.
@@ -68,5 +68,6 @@ public static void main(String[] args) {
 
 ## RESULT:
 Thus, the program to create a class with paramterized constructor is implemented successfully.
+
 
 
